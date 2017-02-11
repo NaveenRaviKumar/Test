@@ -3,6 +3,6 @@ class Simple{
     public static void main(String args[]){  
      System.out.println("Hello Java");  
      System.out.println("Hello Test ");  
-     //ystem.out.println("third line");
+     System.out.println("third line");
     }  
 } 
